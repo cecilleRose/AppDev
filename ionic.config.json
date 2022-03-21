@@ -1,0 +1,7 @@
+{
+  "name": "first activity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
